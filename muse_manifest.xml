@@ -1,0 +1,24 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vies.dev" resolutions="1x" timestamp="1491752889613">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="4150620711" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="hal-webfont.woff" crc="3954535208"/>
+    <file name="104221.eot" crc="358282714"/>
+  </folder>
+  <folder name="assets">
+    <file name="laptop_1.mp4" crc="4108964864" seo="true" mt="1491732555000"/>
+    <file name="laptop_1.ogg" crc="3960529151" seo="true" mt="1491732704000"/>
+    <file name="laptop_1.webm" crc="254974555" seo="true" mt="1491732867000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3789475670" seo="true" mt="1491739291015" redirect="true"/>
+</manifest>

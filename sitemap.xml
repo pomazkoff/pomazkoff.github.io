@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://vies.dev/index.html</loc>
+    <lastmod>2017-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vies.dev/assets/laptop_1.ogg</loc>
+    <lastmod>2017-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vies.dev/assets/laptop_1.mp4</loc>
+    <lastmod>2017-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vies.dev/assets/laptop_1.webm</loc>
+    <lastmod>2017-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
